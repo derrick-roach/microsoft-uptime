@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.microsoft.com.ico",
     "slug": "microsoft-com",
     "status": "down",
-    "uptime": "3.39%",
-    "uptimeDay": "3.39%",
-    "uptimeWeek": "3.39%",
-    "uptimeMonth": "3.39%",
-    "uptimeYear": "3.39%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "uptime": "41.78%",
+    "uptimeDay": "41.78%",
+    "uptimeWeek": "41.78%",
+    "uptimeMonth": "41.78%",
+    "uptimeYear": "41.78%",
+    "time": 52,
+    "timeDay": 52,
+    "timeWeek": 52,
+    "timeMonth": 52,
+    "timeYear": 52,
     "dailyMinutesDown": {
-      "2025-03-12": 43
+      "2025-03-12": 45
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 72,
-    "timeDay": 72,
-    "timeWeek": 72,
-    "timeMonth": 72,
-    "timeYear": 72,
+    "time": 84,
+    "timeDay": 84,
+    "timeWeek": 84,
+    "timeMonth": 84,
+    "timeYear": 84,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 76,
-    "timeDay": 76,
-    "timeWeek": 76,
-    "timeMonth": 76,
-    "timeYear": 76,
+    "time": 82,
+    "timeDay": 82,
+    "timeWeek": 82,
+    "timeMonth": 82,
+    "timeYear": 82,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 204,
-    "timeWeek": 204,
-    "timeMonth": 204,
-    "timeYear": 204,
+    "time": 193,
+    "timeDay": 193,
+    "timeWeek": 193,
+    "timeMonth": 193,
+    "timeYear": 193,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 331,
-    "timeWeek": 331,
-    "timeMonth": 331,
-    "timeYear": 331,
+    "time": 360,
+    "timeDay": 360,
+    "timeWeek": 360,
+    "timeMonth": 360,
+    "timeYear": 360,
     "dailyMinutesDown": {}
   }
 ]

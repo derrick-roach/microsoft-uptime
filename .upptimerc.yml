@@ -4,11 +4,17 @@ repo: microsoft-uptime # The name of this repository
 
 sites:
   - name: Microsoft.com
-    url: https://www.microsoft.com/en-us/
+    url: https://www.microsoft.com
+  - name: Bing
+    url: https://www.bing.com
   - name: Microsoft Copilot
     url: https://copilot.microsoft.com
   - name: GitHub
     url: https://github.com
+  - name: LinkedIn
+    url: https://www.linkedin.com
+  - name: Visual Studio
+    url: https://www.visualstudio.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

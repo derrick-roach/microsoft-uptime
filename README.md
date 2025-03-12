@@ -1,6 +1,6 @@
 # [📈 Live Status](https://derrick-roach.github.io/microsoft-uptime): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [Derrick Roach](derrick-roach.github.io), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [a handful of Microsoft sites](https://derrick-roach.github.io/microsoft-uptime/), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/derrick-roach/microsoft-uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/derrick-roach/microsoft-uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/derrick-roach/microsoft-uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/derrick-roach/microsoft-uptime/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -25,7 +25,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://derrick-roach.github.io/microsoft-uptime)
+[**Visit the status website →**](https://derrick-roach.github.io/microsoft-uptime)
 
 ## 📄 License
 

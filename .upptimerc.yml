@@ -22,7 +22,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /microsoft-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  theme: dark
+  theme: night
   name: MSFT Uptime
   introTitle: "An open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data. No server required — just GitHub Actions, Issues, and Pages. [**Start your own for free**](https://github.com/upptime/upptime)

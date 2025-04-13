@@ -60,18 +60,20 @@
     "url": "https://github.com",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 130,
-    "timeDay": 43,
-    "timeWeek": 135,
-    "timeMonth": 115,
-    "timeYear": 130,
-    "dailyMinutesDown": {}
+    "time": 128,
+    "timeDay": 41,
+    "timeWeek": 123,
+    "timeMonth": 112,
+    "timeYear": 128,
+    "dailyMinutesDown": {
+      "2025-04-13": 0
+    }
   },
   {
     "name": "LinkedIn",

@@ -79,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.linkedin.com.ico",
     "slug": "linked-in",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 285,
     "timeDay": 224,
     "timeWeek": 218,
@@ -100,7 +100,7 @@
     "slug": "visual-studio",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,6 +109,8 @@
     "timeWeek": 299,
     "timeMonth": 292,
     "timeYear": 342,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-18": 0
+    }
   }
 ]

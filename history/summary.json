@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 3003,
-    "timeDay": 56,
-    "timeWeek": 94,
-    "timeMonth": 318,
-    "timeYear": 3003,
+    "time": 2937,
+    "timeDay": 50,
+    "timeWeek": 88,
+    "timeMonth": 306,
+    "timeYear": 2937,
     "dailyMinutesDown": {
       "2025-03-12": 45
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 144,
-    "timeWeek": 118,
+    "time": 126,
+    "timeDay": 107,
+    "timeWeek": 116,
     "timeMonth": 144,
-    "timeYear": 127,
+    "timeYear": 126,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 93,
-    "timeWeek": 112,
-    "timeMonth": 146,
-    "timeYear": 151,
+    "time": 152,
+    "timeDay": 240,
+    "timeWeek": 132,
+    "timeMonth": 150,
+    "timeYear": 152,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 75,
-    "timeWeek": 212,
-    "timeMonth": 149,
-    "timeYear": 140,
+    "time": 139,
+    "timeDay": 47,
+    "timeWeek": 194,
+    "timeMonth": 145,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   },
   {
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 278,
-    "timeDay": 174,
-    "timeWeek": 247,
-    "timeMonth": 260,
+    "timeDay": 262,
+    "timeWeek": 243,
+    "timeMonth": 256,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2025-05-06": 28,
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 323,
-    "timeDay": 333,
-    "timeWeek": 296,
-    "timeMonth": 322,
-    "timeYear": 323,
+    "time": 322,
+    "timeDay": 247,
+    "timeWeek": 315,
+    "timeMonth": 321,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2025-04-18": 39
     }

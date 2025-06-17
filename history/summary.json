@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2722,
-    "timeDay": 67,
-    "timeWeek": 219,
-    "timeMonth": 140,
-    "timeYear": 2722,
+    "time": 2669,
+    "timeDay": 42,
+    "timeWeek": 217,
+    "timeMonth": 136,
+    "timeYear": 2669,
     "dailyMinutesDown": {
       "2025-03-12": 45
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 153,
-    "timeWeek": 115,
-    "timeMonth": 127,
-    "timeYear": 126,
+    "time": 125,
+    "timeDay": 94,
+    "timeWeek": 108,
+    "timeMonth": 128,
+    "timeYear": 125,
     "dailyMinutesDown": {}
   },
   {
@@ -49,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 136,
+    "timeDay": 90,
     "timeWeek": 139,
     "timeMonth": 137,
     "timeYear": 151,
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 64,
-    "timeWeek": 104,
-    "timeMonth": 130,
-    "timeYear": 138,
+    "time": 139,
+    "timeDay": 155,
+    "timeWeek": 116,
+    "timeMonth": 131,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 276,
-    "timeDay": 204,
-    "timeWeek": 236,
-    "timeMonth": 252,
-    "timeYear": 276,
+    "time": 275,
+    "timeDay": 196,
+    "timeWeek": 240,
+    "timeMonth": 250,
+    "timeYear": 275,
     "dailyMinutesDown": {
       "2025-05-06": 28,
       "2025-04-10": 51
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 325,
-    "timeDay": 265,
-    "timeWeek": 351,
+    "time": 324,
+    "timeDay": 205,
+    "timeWeek": 333,
     "timeMonth": 315,
-    "timeYear": 325,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2025-04-18": 39
     }

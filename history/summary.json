@@ -24,10 +24,10 @@
     "url": "https://www.bing.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bing.com.ico",
     "slug": "bing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
@@ -35,16 +35,18 @@
     "timeWeek": 787,
     "timeMonth": 272,
     "timeYear": 167,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-27": 1
+    }
   },
   {
     "name": "Microsoft Copilot",
     "url": "https://copilot.microsoft.com",
     "icon": "https://icons.duckduckgo.com/ip3/copilot.microsoft.com.ico",
     "slug": "microsoft-copilot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +55,9 @@
     "timeWeek": 147,
     "timeMonth": 129,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-27": 0
+    }
   },
   {
     "name": "GitHub",

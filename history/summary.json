@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1510,
-    "timeDay": 190,
-    "timeWeek": 92,
+    "time": 1494,
+    "timeDay": 67,
+    "timeWeek": 91,
     "timeMonth": 90,
-    "timeYear": 1510,
+    "timeYear": 1494,
     "dailyMinutesDown": {
       "2025-03-12": 45
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 196,
-    "timeWeek": 125,
-    "timeMonth": 126,
+    "timeDay": 126,
+    "timeWeek": 131,
+    "timeMonth": 124,
     "timeYear": 157,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 161,
-    "timeDay": 202,
+    "time": 160,
+    "timeDay": 97,
     "timeWeek": 224,
-    "timeMonth": 206,
-    "timeYear": 161,
+    "timeMonth": 205,
+    "timeYear": 160,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 148,
-    "timeDay": 423,
-    "timeWeek": 212,
-    "timeMonth": 173,
-    "timeYear": 148,
+    "time": 147,
+    "timeDay": 71,
+    "timeWeek": 198,
+    "timeMonth": 174,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2025-06-27": 24
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 263,
-    "timeDay": 214,
-    "timeWeek": 228,
-    "timeMonth": 225,
-    "timeYear": 263,
+    "time": 262,
+    "timeDay": 179,
+    "timeWeek": 214,
+    "timeMonth": 224,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2025-05-06": 28,
       "2025-04-10": 51
@@ -108,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 317,
-    "timeDay": 395,
-    "timeWeek": 271,
-    "timeMonth": 285,
+    "timeDay": 292,
+    "timeWeek": 289,
+    "timeMonth": 289,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2025-04-18": 39

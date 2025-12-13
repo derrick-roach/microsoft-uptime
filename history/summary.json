@@ -64,7 +64,7 @@
     "slug": "git-hub",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -74,6 +74,7 @@
     "timeMonth": 189,
     "timeYear": 157,
     "dailyMinutesDown": {
+      "2025-12-13": 0,
       "2025-08-11": 25,
       "2025-07-30": 32,
       "2025-06-27": 24

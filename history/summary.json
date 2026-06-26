@@ -93,20 +93,21 @@
     "url": "https://www.linkedin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.linkedin.com.ico",
     "slug": "linked-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 242,
-    "timeDay": 194,
-    "timeWeek": 179,
-    "timeMonth": 205,
-    "timeYear": 233,
+    "timeDay": 121,
+    "timeWeek": 163,
+    "timeMonth": 200,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2026-04-09": 28,
-      "2026-04-15": 21
+      "2026-04-15": 21,
+      "2026-06-26": 0
     }
   },
   {
